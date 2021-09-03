@@ -91,7 +91,7 @@ for date in dates :
 		print(date+" new_cases : "+str(new_cases[-1]))
 	
 	else :
-		print("no response you fucking trash")	
+		print("no response ")	
 
 dates = [x.replace('.','/')[:5] for x in dates ]
 plt.plot(dates , new_cases) 

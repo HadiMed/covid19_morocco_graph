@@ -1,4 +1,9 @@
 # covid19_morocco_graph
 graph representation of Covid cases in morocco
-## Requirements : 
+## Requirements :
+- PyPDF2 
+- re 
+- requests 
+- matplotlib
+
 

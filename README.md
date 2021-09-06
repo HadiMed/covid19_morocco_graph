@@ -5,5 +5,6 @@ graph representation of Covid cases in morocco
 - re 
 - requests 
 - matplotlib
+- bokeh
 
 
